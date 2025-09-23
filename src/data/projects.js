@@ -49,8 +49,8 @@ export const projects = [
     title: "Portfolio Website",
     desc: "Personal portfolio built to showcase projects and skills.",
     tech: "HTML, CSS, JavaScript",
-    live: "https://github.com/CodeWithAdeel1/Portfolio-_react_-.git",
-    github: "https://github.com/CodeWithAdeel1/Portfolio-_react_-.git",
+    live: "https://my-portfolio-k00dslp5y-muhammad-adeels-projects-11a8a174.vercel.app/",
+    github: "https://github.com/CodeWithAdeel1/My-Portfolio.git",
     label: "Personal Site",
     image: portfolio
     },
