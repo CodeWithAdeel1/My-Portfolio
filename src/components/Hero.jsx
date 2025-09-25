@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import myprofile from '../assets/images/portfolio.jpg'
+import myprofile from '../assets/images/profile.png'
 export default function Hero() {
   return (
     <section className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
